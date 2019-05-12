@@ -1,7 +1,7 @@
 const { logger } = require('@test-project/utils')
 
 function first() {
-  logger('first 1234')
+  logger('first 12345')
 }
 
 module.exports = first
