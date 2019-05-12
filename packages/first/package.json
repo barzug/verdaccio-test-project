@@ -1,9 +1,9 @@
 {
   "name": "@test-project/first",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@test-project/utils": "^1.0.0"
+    "@test-project/utils": "^0.0.1"
   }
 }
