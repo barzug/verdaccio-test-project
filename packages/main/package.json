@@ -1,13 +1,13 @@
 {
   "name": "@test-project/main",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "start": "node ."
   },
   "dependencies": {
-    "@test-project/first": "^0.0.1",
+    "@test-project/first": "^0.1.0",
     "@test-project/second": "^0.0.1",
     "@test-project/utils": "^0.0.1"
   }
