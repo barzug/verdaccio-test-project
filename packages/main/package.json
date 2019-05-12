@@ -1,0 +1,14 @@
+{
+  "name": "@test-project/main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "@test-project/first": "^1.0.0",
+    "@test-project/second": "^1.0.0",
+    "@test-project/utils": "^1.0.0"
+  }
+}
